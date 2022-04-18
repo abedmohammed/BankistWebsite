@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/72363970/163862538-3ac340c6-82f2-43cf-
 
 <!-- How to play -->
 ## Instructions 👨‍🏫 ##
-https://bankistmarketing.netlify.app/
+Go to -> https://bankistmarketing.netlify.app/
 
 <!-- Tools -->
 ## Tools 🛠 ##
